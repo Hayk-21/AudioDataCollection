@@ -6,7 +6,7 @@ from terminal_loading_bar import loadbar
 
 fps = 44100
 duration = 2
-items = range(5)
+items = range(5) #<----------------files count
 timeout = 1 #sec
 
 l = len(items)
