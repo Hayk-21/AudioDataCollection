@@ -28,7 +28,7 @@ python .\new_recording.py
 ```
 
 
-#Attention! 
-##Speak when... 
-**When the button is red in the new version**
-**When the CapsLock light is on in the old version**
+# Attention
+> Speak when **the Button is red** in the new version
+
+> Speak when **the CapsLock light is on** in the old version
