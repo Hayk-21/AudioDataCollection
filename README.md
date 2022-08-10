@@ -1,4 +1,4 @@
 # AudioDataCollection
 Records audio data (.wav)
 new_recording.py is new version of recording.py
-![GifMaker_20220810052642484](https://user-images.githubusercontent.com/76138383/183790323-8d796cfe-35b0-4d77-958c-f252b1f0a2a6.gif)
+![05-21-48 (online-video-cutter com)](https://user-images.githubusercontent.com/76138383/183791043-4c269913-1ab6-46b4-bf2c-db440d5efd2b.gif)
