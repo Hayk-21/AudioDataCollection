@@ -17,5 +17,15 @@ pip install tk
 
 pip install pydub
 ```
+## Run
+**For old version run this command**
+``` 
+python .\recording.py
+```
+**For new version run this command**
+```
+python .\new_recording.py
+```
+
 
 **Attention! Speak when the button is red**
