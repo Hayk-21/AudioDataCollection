@@ -1,6 +1,5 @@
 # AudioDataCollection
 ![05-21-48 (online-video-cutter com) (1)](https://user-images.githubusercontent.com/76138383/183795827-6f13b922-1934-4c03-b035-100b9c955176.gif)
-
 ![recording py - Documents - Visual Studio Code 2022-08-10 05-34-53 (online-video-cutter com)](https://user-images.githubusercontent.com/76138383/183791659-4d40eeb6-bf22-4a21-9dbd-ad39721eaa6a.gif)
 
 Audio Data Recording (.wav)
